@@ -4,5 +4,6 @@ address
 
 change after create branch
 
+change to verify conflict : branch2
 change to verify conflict : Main branch
 
