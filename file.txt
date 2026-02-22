@@ -2,5 +2,3 @@ line 1
 address
 
 
-- https://www.codingmerijan.com/authorization/new-account?utm_source=computer&utm_medium=navbar
-- https://coursiv.io
